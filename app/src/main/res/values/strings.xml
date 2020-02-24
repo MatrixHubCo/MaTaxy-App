@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MaTaxy</string>
+    <string name="looking_for_the_rider_app">LOOKING FOR THE RIDER APP?</string>
+    <string name="drive_your_way">Drive your way!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="fullname">Fullname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="find_user">FIND USER</string>
+    <string name="enter_pickup_location">Enter Pickup Location</string>
+    <string name="go">GO</string>
+    <string name="google_direction_api">AIzaSyD6kyjHFBe-68QDzR-2QOW85v511Ek4HiE</string>
+    <!--<string name="google_direction_api">AIzaSyDeODsaYvb_yP4u2ID8P7qfVR9OlXO9jCs</string>-->
+</resources>

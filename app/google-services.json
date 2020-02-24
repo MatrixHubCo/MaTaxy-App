@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980067076074",
+    "firebase_url": "https://mataxy-f0757.firebaseio.com",
+    "project_id": "mataxy-f0757",
+    "storage_bucket": "mataxy-f0757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980067076074:android:ab49e7901fe18e9d7e1493",
+        "android_client_info": {
+          "package_name": "tz.co.matrixhub.mataxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980067076074-nlr7e05h9og6270m0k5n7rvhsmq6ncd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tz.co.matrixhub.mataxy",
+            "certificate_hash": "bec949ad372a9a44d907a036f53cfa97f84e0fdd"
+          }
+        },
+        {
+          "client_id": "980067076074-atm022ofjidlo8ihujfs4sl843ofsi1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGUxGRrgVPyBRVqa29AmvFpxrbVU4auw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980067076074-atm022ofjidlo8ihujfs4sl843ofsi1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
